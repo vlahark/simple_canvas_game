@@ -1,4 +1,4 @@
-// Create the canvas
+// Create the canvas by Sid
 var canvas = document.createElement("canvas");
 var ctx = canvas.getContext("2d");
 canvas.width = 512;
